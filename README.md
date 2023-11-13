@@ -1,5 +1,6 @@
 # 💫 About Me:
-Yahya Efe Kuruçay
+I am a computer engineering student at Akdeniz University.
+
 
 
 ## 🌐 Socials:
