@@ -8,13 +8,3 @@ I am a computer engineering student at Akdeniz University.
 ![](https://github-readme-stats.vercel.app/api?username=efekurucay&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=efekurucay&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-##
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-###
-<img src='https://randommeme-five.vercel.app/' style="height: 250px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=efekurucay&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
