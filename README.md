@@ -9,3 +9,7 @@ I am a computer engineering student at Akdeniz University.
 [![](https://visitcount.itsvg.in/api?id=efekurucay&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
+My entire commit history and home hobby projects have been moved to the  [![efekurucay-archive](https://github.com/efekurucay-archive)] github organization. 
+
+
+
