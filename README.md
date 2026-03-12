@@ -10,8 +10,8 @@ My entire commit history and home hobby projects have been moved to the  [efekur
 - 💎 [gemini-multimodal-embedding-examples](https://github.com/efekurucay/gemini-multimodal-embedding-examples) - Gemini multimodal embedding examples
 - 🌐 [deno-gdelt-client](https://github.com/efekurucay/deno-gdelt-client) - Deno GDELT client
 - 📈 [deno-google-trends](https://github.com/efekurucay/deno-google-trends) - Deno Google Trends
-- 🖥️ [efeos](https://github.com/efekurucay/efeos) - efeOS
-- 🔧 [pkit](https://github.com/efekurucay/pkit) - pkit
+- 🖥️ [efeos](https://github.com/efekurucay/efeos) - Personal productivity ecosystem: notes, docs, budget, mail, AI & cloud
+- 🔧 [pkit](https://github.com/efekurucay/pkit) - Local prompt management & clipboard history app
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark) 
 
