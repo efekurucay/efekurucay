@@ -4,6 +4,7 @@ My entire commit history and home hobby projects have been moved to the  [efekur
 
 ## Current Projects
 
+- 🛠️ [tam-cli](https://github.com/efekurucay/tam-cli) - macOS native terminal alias manager with a SwiftUI interface
 - 🚀 [MADDE](https://github.com/efekurucay/MADDE) - Make AI Driven Development Easier
 - 🎓 [cse-akdeniz-lec](https://github.com/efekurucay/cse-akdeniz-lec) - The best resource ever for Akdeniz University students
 - 🤖 [minix_2.0.4-ai-proxy](https://github.com/efekurucay/minix_2.0.4-ai-proxy) - Including Eliza and Gemini proxy
@@ -16,7 +17,6 @@ My entire commit history and home hobby projects have been moved to the  [efekur
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark) 
 
 [![](https://visitcount.itsvg.in/api?id=efekurucay&icon=0&color=12)](https://visitcount.itsvg.in)
-
 
 
 
