@@ -34,11 +34,13 @@ I'm a **Computer Science & Engineering student** (3rd year, Akdeniz University) 
 |---|---|
 | 🛠️ [tam-cli](https://github.com/efekurucay/tam-cli) | macOS terminal alias manager with SwiftUI interface |
 | 🚀 [MADDE](https://github.com/efekurucay/MADDE) | Make AI Driven Development Easier |
+| 🧩 [model-subsession-protocol](https://github.com/efekurucay/model-subsession-protocol) | Protocol/standard for nested sub-sessions in LLM chat interfaces (MSP) |
 | 🎓 [cse-akdeniz-lec](https://github.com/efekurucay/cse-akdeniz-lec) | Best resource for Akdeniz University CSE students |
 | 🤖 [minix_2.0.4-ai-proxy](https://github.com/efekurucay/minix_2.0.4-ai-proxy) | Eliza + Gemini AI proxy on Minix 2.0.4 |
 | 💎 [gemini-multimodal-embedding-examples](https://github.com/efekurucay/gemini-multimodal-embedding-examples) | Gemini multimodal embedding examples |
 | 🌐 [deno-gdelt-client](https://github.com/efekurucay/deno-gdelt-client) | Deno client for GDELT global event database |
 | 📈 [deno-google-trends](https://github.com/efekurucay/deno-google-trends) | Google Trends API client for Deno |
+| 🦉 [owlflow](https://github.com/efekurucay/owlflow) | Local-first coding agent that turns app ideas into runnable projects |
 | 🖥️ [efeos](https://github.com/efekurucay/efeos) | Personal productivity ecosystem: notes, docs, budget, mail, AI & cloud |
 | 🔧 [pkit](https://github.com/efekurucay/pkit) | Local prompt manager & clipboard history app |
 | 🦒 [GiraffeGraph](https://github.com/GiraffeGraph) | Open‑source graph tooling project I started |
