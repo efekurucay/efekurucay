@@ -20,8 +20,8 @@ I'm a **Computer Science & Engineering student** (3rd year, Akdeniz University) 
 
 - 🧪 Part‑time **Software Engineer @ SANTSG** (R&D, tech & news side)
 - 🧑‍💻 Part‑time **AI Product Engineer @ RTN Tech**
-- 🧱 **Founder** of [Akdeniz CSE Students](https://github.com/Akdeniz-CSE-Students)
-- 🦒 Started the open‑source [GiraffeGraph](https://github.com/GiraffeGraph) project
+- 🌐 **Founder** of [Akdeniz CSE Students](https://github.com/Akdeniz-CSE-Students)
+- 🦒 Creator of [GiraffeGraph](https://github.com/GiraffeGraph) — open-source graph db generator
 - 🔭 Currently building: **MADDE** & **efeos**
 - 💬 Ask me about: AI tooling, LLM protocols, DX, Technical Product Management, any ideas
 - 📫 Reach me: [efekurucay.com](https://www.efekurucay.com/) · contact@efekurucay.com
