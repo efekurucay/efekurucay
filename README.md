@@ -28,21 +28,6 @@ I'm a **Computer Science & Engineering student** (3rd year, Akdeniz University) 
 
 ---
 
-## ⭐ Featured Work
-
-> A few projects that represent what I like to build.
-
-- **Portfolio Website with Personal Chatbot (Eraslan)** – AI‑powered personal site with custom chatbot, live GitHub activity & contact flows.  
-  → Live: [efekurucay.com](https://www.efekurucay.com/) · Stack: Next.js, Tailwind, Gemini API
-
-- **MADDE – Make AI Driven Development Easier** – Toolkit to make AI‑assisted dev workflows reproducible and practical for everyday builders.  
-  → Repo: [MADDE](https://github.com/efekurucay/MADDE)
-
-- **efeos – Personal Productivity Ecosystem** – Central hub for notes, docs, budget, mail, AI & cloud tools, focused on your own operating system.  
-  → Repo: [efeos](https://github.com/efekurucay/efeos)
-
----
-
 ## 🚀 Current Projects
 
 | Project | Description |
