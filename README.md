@@ -18,8 +18,8 @@
 
 I'm a **Computer Science & Engineering student** (3rd year, Akdeniz University) and an **AI Product Engineer** based in Antalya, Turkey 🇹🇷. I build tools at the intersection of **AI**, **developer experience**, and **real-world utility** — from CLI apps to full productivity ecosystems.
 
-- 🧪 Part‑time **Software Developer @ SANTSG** (R&D, tech & news side)
-- 🧑‍💻 Part‑time **AI Product Engineer @ RTN Digital**
+- 🧪 Part‑time **Software Engineer @ SANTSG** (R&D, tech & news side)
+- 🧑‍💻 Part‑time **AI Product Engineer @ RTN Tech**
 - 🧱 **Founder** of [Akdeniz CSE Students](https://github.com/Akdeniz-CSE-Students)
 - 🦒 Started the open‑source [GiraffeGraph](https://github.com/GiraffeGraph) project
 - 🔭 Currently building: **MADDE** & **efeos**
