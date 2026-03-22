@@ -20,7 +20,7 @@ I'm a **Computer Science & Engineering student** (3rd year, Akdeniz University) 
 
 - 🧪 Part‑time **Software Engineer @ SANTSG** (R&D, .NET MVC, React)
 - 🧑‍💻 Part‑time **AI Product Engineer @ RTN Tech** (AI Memory, AI Tools, MCP's, Graph DB) 
-- 🌐 **Founder** of [AkdenizOS](https://akdenizos.github.io/) 
+- 🌐 **Founder** of [AkdenizOS](https://akdenizos.github.io/) - open-source academic launchpad for Akdeniz University CSE
 - 🦒 Creator of [GiraffeGraph](https://github.com/GiraffeGraph) — open-source graph db generator
 - 🔭 Currently building: **MADDE** & **efeos**
 - 💬 Ask me about: AI tooling, LLM protocols, DX, Technical Product Management, any ideas
