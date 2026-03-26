@@ -41,6 +41,11 @@ I'm a **Computer Science & Engineering student** (3rd year, Akdeniz University) 
 | 🌐 [deno-gdelt-client](https://github.com/efekurucay/deno-gdelt-client) | Deno client for GDELT global event database |
 | 📈 [deno-google-trends](https://github.com/efekurucay/deno-google-trends) | Google Trends API client for Deno |
 | 🦉 [owlflow](https://github.com/efekurucay/owlflow) | Local-first coding agent that turns app ideas into runnable projects |
+| 🧠 [RLeon](https://github.com/efekurucay/RLeon) | Local-first macOS app with on-device speech/OCR, local Ollama chat, and native tool calling |
+| 🦆 [duck_editor](https://github.com/efekurucay/duck_editor) | Puck-style visual page editor for ASP.NET Core MVC (Razor RCL, vanilla JS) |
+| 🎸 [recoru](https://github.com/efekurucay/recoru) | Local recorder for chord websites |
+| 🎯 [attentube](https://github.com/efekurucay/attentube) | Distraction-free YouTube viewer without recommendations or comments |
+| 🔒 [blockbook](https://github.com/efekurucay/blockbook) | Manual-launch screen locker for macOS |
 | 🖥️ [efeos](https://github.com/efekurucay/efeos) | Personal productivity ecosystem: notes, docs, budget, mail, AI & cloud |
 | 🔧 [pkit](https://github.com/efekurucay/pkit) | Local prompt manager & clipboard history app |
 | 🦒 [GiraffeGraph](https://github.com/GiraffeGraph) | Open‑source graph tooling project I started |
