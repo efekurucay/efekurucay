@@ -32,6 +32,9 @@ I'm a **Computer Science & Engineering student** (3rd year, Akdeniz University) 
 
 | Project | Description |
 |---|---|
+| 🧠 [gitdex](https://github.com/efekurucay/gitdex) | Make a whole repo understandable for LLMs |
+| 🔀 [plexcode](https://github.com/efekurucay/plexcode) | Local API proxy that routes CLI coding assistants through a Perplexity Pro/Max web session |
+| 🔐 [keyseed](https://github.com/efekurucay/keyseed) | Cross-platform desktop app for encrypting secrets locally with one master key |
 | 🛠️ [tam-cli](https://github.com/efekurucay/tam-cli) | macOS terminal alias manager with SwiftUI interface |
 | 🚀 [MADDE](https://github.com/efekurucay/MADDE) | Make AI Driven Development Easier |
 | 🧩 [model-subsession-protocol](https://github.com/efekurucay/model-subsession-protocol) | Protocol/standard for nested sub-sessions in LLM chat interfaces (MSP) |
