@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,50:1a4a3a,100:0d1117&height=100&section=header" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/efekurucay24/)
 [![Website](https://img.shields.io/badge/🌐_efekurucay.com-0d1117?style=flat&logoColor=white)](https://www.efekurucay.com/)
