@@ -12,7 +12,8 @@
 
 ## 👋 About Me
 
-> *"I strive to create useful and beneficial content."*
+> *"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."*
+> — Henry Thomas Buckle
 
 I'm a **Computer Science & Engineering student** (4th year, Akdeniz University) and an **AI Product Engineer** based in Antalya, Turkey 🇹🇷. I build tools at the intersection of **AI**, **developer experience**, and **real-world utility** — from CLI apps to full productivity ecosystems.
 
