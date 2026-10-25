@@ -34,7 +34,7 @@ I'm a **Computer Science & Engineering student** (4th year, Akdeniz University) 
 | 🖥️ [anydisplay](https://github.com/efekurucay/anydisplay) | Turn any Android phone or tablet into a second monitor, touch screen and pen tablet for Mac and Windows · [site](https://www.efekurucay.com/en/2026/10/anydisplay/) |
 | 📡 [nfcraft](https://github.com/efekurucay/nfcraft) | Modern NFC toolkit for Android: read, write, automate and emulate NFC tags · [site](https://www.efekurucay.com/en/2026/10/nfcraft/) |
 | 🧠 [RLeon](https://github.com/efekurucay/RLeon) | Local-first macOS app with on-device speech/OCR, local Ollama chat, and native tool calling |
-| 🧠 [gitdex](https://github.com/efekurucay/gitdex) | Make a whole repo understandable for LLMs |
+| 📚 [gitdex](https://github.com/efekurucay/gitdex) | Make a whole repo understandable for LLMs |
 | 🛠️ [tam-cli](https://github.com/efekurucay/tam-cli) | macOS terminal alias manager with SwiftUI interface |
 | 🎓 [cse-akdeniz-lec](https://github.com/efekurucay/cse-akdeniz-lec) | Best resource for Akdeniz University CSE students |
 
