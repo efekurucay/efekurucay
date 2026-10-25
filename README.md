@@ -1,3 +1,4 @@
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/efekurucay24/)
 [![Website](https://img.shields.io/badge/🌐_efekurucay.com-0d1117?style=flat&logoColor=white)](https://www.efekurucay.com/)
@@ -13,7 +14,7 @@
 
 > *"I strive to create useful and beneficial content."*
 
-I'm a **Computer Science & Engineering student** (3rd year, Akdeniz University) and an **AI Product Engineer** based in Antalya, Turkey 🇹🇷. I build tools at the intersection of **AI**, **developer experience**, and **real-world utility** — from CLI apps to full productivity ecosystems.
+I'm a **Computer Science & Engineering student** (4th year, Akdeniz University) and an **AI Product Engineer** based in Antalya, Turkey 🇹🇷. I build tools at the intersection of **AI**, **developer experience**, and **real-world utility** — from CLI apps to full productivity ecosystems.
 
 - 🧪 Part‑time **Software Engineer @ SANTSG** (R&D, .NET MVC, React)
 - 🧑‍💻 Part‑time **AI Product Engineer @ RTN Tech** (AI Memory, AI Tools, MCP's, Graph DB) 
