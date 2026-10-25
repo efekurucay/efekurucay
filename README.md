@@ -27,34 +27,18 @@ I'm a **Computer Science & Engineering student** (4th year, Akdeniz University) 
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
 | Project | Description |
 |---|---|
-| 🧠 [gitdex](https://github.com/efekurucay/gitdex) | Make a whole repo understandable for LLMs |
-| 🔀 [plexcode](https://github.com/efekurucay/plexcode) | Local API proxy that routes CLI coding assistants through a Perplexity Pro/Max web session |
-| 🔐 [keyseed](https://github.com/efekurucay/keyseed) | Cross-platform desktop app for encrypting secrets locally with one master key |
-| 📞 [callscoot](https://github.com/efekurucay/callscoot) | Turn a Linux laptop into a Bluetooth call deck for an Android phone |
-| 🎵 [rpmdeck](https://github.com/efekurucay/rpmdeck) | Terminal music player with spinning ASCII vinyl animation (powered by mpv) |
-| 🛠️ [tam-cli](https://github.com/efekurucay/tam-cli) | macOS terminal alias manager with SwiftUI interface |
-| 🚀 [MADDE](https://github.com/efekurucay/MADDE) | Make AI Driven Development Easier |
-| 🧩 [model-subsession-protocol](https://github.com/efekurucay/model-subsession-protocol) | Protocol/standard for nested sub-sessions in LLM chat interfaces (MSP) |
-| 🎓 [cse-akdeniz-lec](https://github.com/efekurucay/cse-akdeniz-lec) | Best resource for Akdeniz University CSE students |
-| 🤖 [minix_2.0.4-ai-proxy](https://github.com/efekurucay/minix_2.0.4-ai-proxy) | Eliza + Gemini AI proxy on Minix 2.0.4 |
-| 💎 [gemini-multimodal-embedding-examples](https://github.com/efekurucay/gemini-multimodal-embedding-examples) | Gemini multimodal embedding examples |
-| 🌐 [deno-gdelt-client](https://github.com/efekurucay/deno-gdelt-client) | Deno client for GDELT global event database |
-| 📈 [deno-google-trends](https://github.com/efekurucay/deno-google-trends) | Google Trends API client for Deno |
-| 🦉 [owlflow](https://github.com/efekurucay/owlflow) | Local-first coding agent that turns app ideas into runnable projects |
+| 🖥️ [anydisplay](https://github.com/efekurucay/anydisplay) | Turn any Android phone or tablet into a second monitor, touch screen and pen tablet for Mac and Windows · [site](https://www.efekurucay.com/en/2026/10/anydisplay/) |
+| 📡 [nfcraft](https://github.com/efekurucay/nfcraft) | Modern NFC toolkit for Android: read, write, automate and emulate NFC tags · [site](https://www.efekurucay.com/en/2026/10/nfcraft/) |
 | 🧠 [RLeon](https://github.com/efekurucay/RLeon) | Local-first macOS app with on-device speech/OCR, local Ollama chat, and native tool calling |
-| 🦆 [duck_editor](https://github.com/efekurucay/duck_editor) | Puck-style visual page editor for ASP.NET Core MVC (Razor RCL, vanilla JS) |
-| 🎸 [recoru](https://github.com/efekurucay/recoru) | Local recorder for chord websites |
-| 🎯 [attentube](https://github.com/efekurucay/attentube) | Distraction-free YouTube viewer without recommendations or comments |
-| 🔒 [blockbook](https://github.com/efekurucay/blockbook) | Manual-launch screen locker for macOS |
-| 🖥️ [efeos](https://github.com/efekurucay/efeos) | Personal productivity ecosystem: notes, docs, budget, mail, AI & cloud |
-| 🔧 [pkit](https://github.com/efekurucay/pkit) | Local prompt manager & clipboard history app |
-| 🦒 [GiraffeGraph](https://github.com/GiraffeGraph) | Open‑source graph tooling project I started |
+| 🧠 [gitdex](https://github.com/efekurucay/gitdex) | Make a whole repo understandable for LLMs |
+| 🛠️ [tam-cli](https://github.com/efekurucay/tam-cli) | macOS terminal alias manager with SwiftUI interface |
+| 🎓 [cse-akdeniz-lec](https://github.com/efekurucay/cse-akdeniz-lec) | Best resource for Akdeniz University CSE students |
 
-> 📦 Hobby projects & full commit history → [efekurucay-archive](https://github.com/efekurucay-archive)
+> 📦 More → [all repositories](https://github.com/efekurucay?tab=repositories) · hobby projects & full commit history → [efekurucay-archive](https://github.com/efekurucay-archive)
 
 ---
 
