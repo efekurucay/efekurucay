@@ -36,6 +36,7 @@ I'm a **Computer Science & Engineering student** (4th year, Akdeniz University) 
 | 🧠 [RLeon](https://github.com/efekurucay/RLeon) | Local-first macOS app with on-device speech/OCR, local Ollama chat, and native tool calling |
 | 📚 [gitdex](https://github.com/efekurucay/gitdex) | Make a whole repo understandable for LLMs |
 | 🛠️ [tam-cli](https://github.com/efekurucay/tam-cli) | macOS terminal alias manager with SwiftUI interface |
+| 📞 [callscoot](https://github.com/efekurucay/callscoot) | Turn a Linux laptop into a Bluetooth call deck for an Android phone |
 | 🎓 [cse-akdeniz-lec](https://github.com/efekurucay/cse-akdeniz-lec) | Best resource for Akdeniz University CSE students |
 
 > 📦 More → [all repositories](https://github.com/efekurucay?tab=repositories) · hobby projects & full commit history → [efekurucay-archive](https://github.com/efekurucay-archive)
